@@ -1,16 +1,4 @@
-# assignment4_on_flutter
+<img width="284" alt="image" src="https://github.com/user-attachments/assets/782ddbd1-ed3a-4053-97e2-aa90d1068081">
+<img width="269" alt="image" src="https://github.com/user-attachments/assets/6917e49c-1684-4cfc-a55a-cedda7f84863">
+<img width="136" alt="image" src="https://github.com/user-attachments/assets/36193843-b6eb-4bdd-938b-11a84bda2038">
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
